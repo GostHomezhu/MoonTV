@@ -148,8 +148,8 @@ const Sidebar = ({ onToggle, activePath = '/' }: SidebarProps) => {
     },
     {
       icon: Star,
-      label: '成人VIP区',
-      href: 'https://ccby.cc',
+      label: '豆瓣 Top250',
+      href: '/douban?type=movie&tag=top250&title=豆瓣 Top250',
     },
     {
       icon: Clover,
