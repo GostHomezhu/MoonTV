@@ -47,7 +47,7 @@ const MobileBottomNav = ({ activePath }: MobileBottomNavProps) => {
     {
       icon: Star,
       label: '成人专区',
-      href: 'https://98.cckp.cc/group.php/index/share/id/168/',
+      href: 'https://cc.ccfr.cc/',
     },
     {
       icon: Clover,
