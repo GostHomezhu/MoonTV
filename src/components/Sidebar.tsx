@@ -148,8 +148,8 @@ const Sidebar = ({ onToggle, activePath = '/' }: SidebarProps) => {
     },
     {
       icon: Star,
-      label: '豆瓣 Top250',
-      href: '/douban?type=movie&tag=top250&title=豆瓣 Top250',
+      label: '成人专区',
+      href: 'https://98.cckp.cc/group.php/index/share/id/168/',
     },
     {
       icon: Clover,
