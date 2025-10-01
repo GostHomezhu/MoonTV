@@ -149,7 +149,7 @@ const Sidebar = ({ onToggle, activePath = '/' }: SidebarProps) => {
     {
       icon: Star,
       label: '成人专区',
-      href: 'https://98.cckp.cc/group.php/index/share/id/168/',
+      href: 'https://cc.ccfr.cc/',
     },
     {
       icon: Clover,
@@ -167,11 +167,11 @@ const Sidebar = ({ onToggle, activePath = '/' }: SidebarProps) => {
   ];
 
   const { siteName } = useSite();
-  if (siteName !== 'MoonTV') {
+  if (siteName !== 'ccbo.cc') {
     menuItems.push({
       icon: Github,
-      label: 'MoonTV',
-      href: 'https://github.com/senshinya/MoonTV',
+      label: 'ccbo.cc',
+      href: 'https:/ccbo.cc',
     });
   }
 
